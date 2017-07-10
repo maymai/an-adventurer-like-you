@@ -1,6 +1,2 @@
-_init_.py
-.gitignore
-.swp
-.git/
-__pycache__/
-PyClass/__pycache__/
+*__init__.py
+*__pycache__
