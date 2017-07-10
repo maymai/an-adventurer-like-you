@@ -1,4 +1,6 @@
-.DS_Store
-*.xcuserstate
-project.xcworkspace/
-xcuserdata/
+_init_.py
+.gitignore
+.swp
+.git/
+__pycache__/
+PyClass/__pycache__/
